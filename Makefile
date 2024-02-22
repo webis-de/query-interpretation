@@ -20,6 +20,8 @@ deploy: build
 tira:
 	python3 -m venv venv
 	source venv/bin/activate && pip install tira
+dev-bash:
+	docker run --rm -ti -v ${PWD}/data:/data --entrypoint bash ${IMAGE_NAME}:${VERSION}
 
 tira-run: deploy tira
 	source venv/bin/activate && tira-run \
