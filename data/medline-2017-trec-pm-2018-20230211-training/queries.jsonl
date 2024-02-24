@@ -1,0 +1,50 @@
+{"qid": "1", "query": "melanoma BRAF (V600E) 64-year-old male"}
+{"qid": "2", "query": "melanoma BRAF (V600K) 54-year-old male"}
+{"qid": "3", "query": "melanoma BRAF (V600R) 80-year-old male"}
+{"qid": "4", "query": "melanoma BRAF (K601E) 38-year-old male"}
+{"qid": "5", "query": "melanoma BRAF (V600E), PTEN loss of function 57-year-old male"}
+{"qid": "6", "query": "melanoma BRAF (V600E), NRAS (Q61R) 67-year-old male"}
+{"qid": "7", "query": "melanoma BRAF amplification 61-year-old male"}
+{"qid": "8", "query": "melanoma NRAS (Q61R) 63-year-old female"}
+{"qid": "9", "query": "melanoma NRAS (Q61L) 34-year-old female"}
+{"qid": "10", "query": "melanoma KIT (L576P) 65-year-old female"}
+{"qid": "11", "query": "melanoma KIT (L576P), KIT amplification 56-year-old female"}
+{"qid": "12", "query": "melanoma KIT (K642E) 62-year-old female"}
+{"qid": "13", "query": "melanoma KIT (N822Y) 39-year-old female"}
+{"qid": "14", "query": "melanoma KIT amplification 66-year-old female"}
+{"qid": "15", "query": "melanoma NF1 truncation 70-year-old male"}
+{"qid": "16", "query": "melanoma NTRK1 rearrangement 60-year-old male"}
+{"qid": "17", "query": "melanoma TP53 loss of function 72-year-old male"}
+{"qid": "18", "query": "melanoma tumor cells with >50% membranous PD-L1 expression 48-year-old female"}
+{"qid": "19", "query": "melanoma tumor cells negative for PD-L1 expression 73-year-old male"}
+{"qid": "20", "query": "melanoma high tumor mutational burden 86-year-old female"}
+{"qid": "21", "query": "melanoma extensive tumor infiltrating lymphocytes 49-year-old male"}
+{"qid": "22", "query": "melanoma no tumor infiltrating lymphocytes 74-year-old female"}
+{"qid": "23", "query": "melanoma PTEN loss of function 68-year-old male"}
+{"qid": "24", "query": "melanoma APC loss of function 47-year-old male"}
+{"qid": "25", "query": "melanoma high serum LDH levels 69-year-old female"}
+{"qid": "26", "query": "colorectal cancer NRAS 49-year-old male"}
+{"qid": "27", "query": "medullary thyroid carcinoma RET 45-year-old female"}
+{"qid": "28", "query": "neuroblastoma ALK 4-year-old female"}
+{"qid": "29", "query": "esophageal cancer EGFR 67-year-old male"}
+{"qid": "30", "query": "lung cancer ROS1 71-year-old female"}
+{"qid": "31", "query": "head and neck squamous cell carcinoma CDKN2A 64-year-old male"}
+{"qid": "32", "query": "leukemia ABL1 4-year-old female"}
+{"qid": "33", "query": "gastric cancer EGFR 60-year-old female"}
+{"qid": "34", "query": "sarcoma MDM2 78-year-old female"}
+{"qid": "35", "query": "breast cancer CDKN2A 73-year-old female"}
+{"qid": "36", "query": "lung cancer ERBB2 49-year-old female"}
+{"qid": "37", "query": "non-small cell carcinoma MET 68-year-old male"}
+{"qid": "38", "query": "cholangiocarcinoma IDH1 50-year-old male"}
+{"qid": "39", "query": "anaplastic large cell lymphoma ALK 18-year-old male"}
+{"qid": "40", "query": "breast cancer ERBB2 56-year-old female"}
+{"qid": "41", "query": "papillary thyroid carcinoma NTRK1 46-year-old female"}
+{"qid": "42", "query": "glioblastoma CDK6 84-year-old male"}
+{"qid": "43", "query": "basal cell carcinoma PTCH1 56-year-old female"}
+{"qid": "44", "query": "glioma BRAF 82-year-old male"}
+{"qid": "45", "query": "thyroid cancer BRAF 40-year-old female"}
+{"qid": "46", "query": "lung cancer FGFR1 57-year-old male"}
+{"qid": "47", "query": "prostate cancer PTEN 70-year-old male"}
+{"qid": "48", "query": "adenoid cystic carcinoma KIT 58-year-old female"}
+{"qid": "49", "query": "acute myeloid leukemia IDH1 1-year-old male"}
+{"qid": "50", "query": "acute myeloid leukemia FLT3 13-year-old male"}
